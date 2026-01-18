@@ -688,7 +688,9 @@
 			developmentRegion = en;
 			hasScannedForEncodings = 1;
 			knownRegions = (
+				en,
 				Base,
+				English,
 			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* PortMapper */;
 			projectDirPath = "";
